@@ -5,8 +5,8 @@ public class GitTest {
 	
 		public static void main(String[] args) {
 			
-			System.out.println("我是第一个版本");
-			
+			System.out.println("脦脪脢脟碌脷脪禄赂枚掳忙卤戮");
+			System.out.println("1111");
 			
 		}
 }
